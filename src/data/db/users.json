@@ -1,0 +1,63 @@
+[
+  {
+    "id": "usr_1795219584480_3210",
+    "name": "Shreyam",
+    "phone": "9876543210",
+    "createdAt": 1795219584480,
+    "memberSince": "Nov 2026",
+    "addresses": [
+      {
+        "id": "addr-default",
+        "label": "Home",
+        "address": "Bengaluru, Karnataka",
+        "pincode": "560001",
+        "isDefault": true
+      }
+    ],
+    "savedVehicles": [
+      {
+        "id": "veh-default",
+        "makeModel": "Personal Car",
+        "plateNumber": "KA 01 MG 1930"
+      }
+    ]
+  },
+  {
+    "id": "usr_1795224186015_9301",
+    "name": "Rhea Pillai",
+    "phone": "9845019301",
+    "email": "rhea@example.com",
+    "createdAt": 1795224186015,
+    "memberSince": "Nov 2026"
+  },
+  {
+    "id": "usr_1795224186033_1223",
+    "name": "Vikram Mehra",
+    "phone": "9880011223",
+    "createdAt": 1795224186033,
+    "memberSince": "Nov 2026"
+  },
+  {
+    "id": "usr_1795224810868_2345",
+    "name": "Aditi Rao",
+    "phone": "9845012345",
+    "createdAt": 1795224810868,
+    "memberSince": "Nov 2026",
+    "addresses": [
+      {
+        "id": "addr-default",
+        "label": "Home",
+        "address": "Bengaluru, Karnataka",
+        "pincode": "560001",
+        "isDefault": true
+      }
+    ],
+    "savedVehicles": [
+      {
+        "id": "veh-default",
+        "makeModel": "Personal Car",
+        "plateNumber": "KA 01 MG 1930"
+      }
+    ]
+  }
+]

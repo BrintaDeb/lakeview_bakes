@@ -1,0 +1,224 @@
+{
+  "brand_overview": {
+    "brand_name": "Lakeview Milk Bar",
+    "tagline": "Baking is our Love Language",
+    "established_year": 1930,
+    "founder": "James Meadow Charles",
+    "successor_craftsman": "Vrajlal Jamnadas (Acquired 1947, studied ice-cream making in California)",
+    "family_leadership_quote": {
+      "author": "Anish Vakharia, Vrajlal\u2019s grandson",
+      "quote": "My grandfather was freshly out of college and was enamoured by ice creams. He bought Lakeview Milk Bar, the carts, and the recipes."
+    },
+    "central_order_phone": "9663812036",
+    "official_email": "support@lakeviewmilkbar.in",
+    "announcement_bar_text": "Order by Phone: (9663812036) | Shop Now"
+  },
+  "outlets": [
+    {
+      "id": "mg-road",
+      "name": "Lakeview Milk Bar | MG Road Flagship",
+      "address": "Kannan Building, 89, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka - 560001",
+      "phone": "9663812036",
+      "google_maps_query": "Lakeview Milk Bar MG Road Bengaluru",
+      "established_year": 1970,
+      "significance": "Iconic flagship location, pioneer of Bangalore drive-in dessert culture"
+    },
+    {
+      "id": "indiranagar",
+      "name": "Lakeview Milk Bar | Indiranagar",
+      "address": "No. 3161 Link Road 4, Near to E S I Hospital, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka - 560008",
+      "phone": "+91 8025200443",
+      "google_maps_query": "Lakeview Milk Bar Indiranagar Bengaluru",
+      "established_year": 2019
+    },
+    {
+      "id": "kalyan-nagar",
+      "name": "Lakeview Milk Bar | Kalyan Nagar",
+      "address": "3rd A Cross Rd, HRBR Layout 1st Block, HRBR Layout, Banaswadi, Bengaluru, Karnataka - 560043",
+      "phone": "+91 9972635636",
+      "google_maps_query": "Lakeview Milk Bar Kalyan Nagar Bengaluru",
+      "established_year": 2018
+    },
+    {
+      "id": "whitefield",
+      "name": "Lakeview Milk Bar | Whitefield",
+      "address": "273, Whitefield Main Rd, Dodsworth Layout, Whitefield, Bengaluru, Karnataka - 560066",
+      "phone": "+91 8025200443",
+      "google_maps_query": "Lakeview Milk Bar Whitefield Bengaluru",
+      "established_year": 2021
+    }
+  ],
+  "history_timeline": [
+    {
+      "year": "1930",
+      "title": "The Conception of a Dream",
+      "description": "The story began with James Meadow Charles, an Englishman living in British-era Bangalore, who owned an ice cream parlour overlooking Ulsoor Lake. Inspired by the scenic beauty of the waterbody, he named it \u2018Lakeview Milk Bar\u2019. Families, friends, and lovers all fancied quality time with a bowl of ice cream. Charles sold three ice cream flavours at its inception - vanilla, chocolate, and strawberry."
+    },
+    {
+      "year": "1947",
+      "title": "A Cornerstone in the Making",
+      "description": "Charles decided to move back to England when India was at the cusp of independence and sold his business to an aspiring young businessman \u2013 a 19-year-old Vrajlal Jamnadas. An avid ice cream enthusiast, Vrajlal ventured to California to perfect his craft under the tutelage of some of the most renowned ice cream makers. Upon his return, he introduced a range of classic ice cream flavours, which quickly became the talk of the town and garnered much praise."
+    },
+    {
+      "year": "1950",
+      "title": "Sundaes Are Not Just For Sundays",
+      "description": "Lakeview Milk Bar began a drive-in ice cream parlour to satiate the cravings of eager customers on the go. The drive-in soon burgeoned into the quintessential Lakeview Milk Bar experience we know and love today."
+    },
+    {
+      "year": "1970",
+      "title": "Parlour of the Midnight Road",
+      "description": "In the early 1970s, Lakeview Milk Bar set up shop in the heart of the city at MG Road. By then, it had become a household name, serving nearly 700 customers daily. Lakeview Milk Bar soon became synonymous with the late-night drive-in culture of Bangalore and cemented itself as a classic ice cream parlour."
+    },
+    {
+      "year": "1980",
+      "title": "Turning a New Leaf",
+      "description": "Lakeview Milk Bar expanded its food menu to feature continental breakfasts and freshly made snacks. Naturally, this exciting development attracted a growing community of old and new customers eager to try the latest food trends."
+    },
+    {
+      "year": "1993",
+      "title": "Expanding the Vision",
+      "description": "With a selection of freshly baked cakes, cookies, and pastries, Lakeview Milk Bar continued to rake in acclaim from locals, tourists, foreigners, and corporations. From its humble origins as a small ice cream parlour, Lakeview Milk Bar blossomed into a beloved destination for lovers of ice cream and nostalgia."
+    },
+    {
+      "year": "2012 - Present",
+      "title": "Carrying the Legacy Forward",
+      "description": "Today, Lakeview Milk Bar offers a refined dining experience that pays tribute to the city's rich history. As one of the first eateries in the area to serve pizzas and burgers, Lakeview Milk Bar continues to retain its nostalgic charm. In recent years, Lakeview Milk Bar has expanded and opened branches at locations across Bangalore, such as Kalyan Nagar (2018), Indiranagar (2019), and Whitefield (2021)."
+    }
+  ],
+  "brand_values": [
+    {
+      "title": "Fresh Ingredients",
+      "icon": "/assets/icons/icon-fresh-ingredients.png",
+      "original_file": "icon1.png"
+    },
+    {
+      "title": "Family Recipes",
+      "icon": "/assets/icons/icon-family-recipes.png",
+      "original_file": "icon2.png"
+    },
+    {
+      "title": "Affordable Pricing",
+      "icon": "/assets/icons/icon-affordable-pricing.png",
+      "original_file": "icon3.png"
+    },
+    {
+      "title": "Commitment to Quality",
+      "icon": "/assets/icons/icon-commitment-quality.png",
+      "original_file": "icon4.png"
+    },
+    {
+      "title": "Family-run Business",
+      "icon": "/assets/icons/icon-family-business.png",
+      "original_file": "icon-5.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "reviewer_name": "Lavanya Vivek",
+      "rating": 5,
+      "review_text": "Lakeview has been baking cakes for me sinces decades , and the cakes only gets better with designs and taste! Hastle free baker in town,she makes my every occasion better n grander ! Wish you all the best and nothin but the best ! \ud83d\ude18\ud83e\udd17\ud83d\ude18",
+      "image": "/assets/testimonials/testimonial-lavanya.png"
+    },
+    {
+      "reviewer_name": "Ambareen Nazim",
+      "rating": 5,
+      "review_text": "Lakeview be it cakes or ice creams one of the oldest and best! Me and My entire family just love Lakeview! The most yummicious and most delicious cakes customised to any design and shape!",
+      "image": "/assets/testimonials/testimonial-ambareen.png"
+    },
+    {
+      "reviewer_name": "Shilpa & Gaurav",
+      "rating": 5,
+      "review_text": "We have been having Lakeviews\u2019s cakes for almost 15 years now. Her cake designs and  taste has only got better and better. And trust me it was very good the first time we had it itself. Their prices justify the quality she delivers and she has never disappointed us in over 100 cakes we would have taken from them.. we thank you Lakeview for being a part of our every celebration by bringing more sweetness in our lives.. hugs & kisses \ud83e\udd17\ud83d\ude18",
+      "image": "/assets/testimonials/testimonial-shilpa-gaurav.png"
+    }
+  ],
+  "homepage_sections": {
+    "announcement_bar": {
+      "text": "Order by Phone: (9663812036) | Shop Now",
+      "phone_clickable": "tel:9663812036",
+      "cta_link": "/collections/cake"
+    },
+    "hero_section": {
+      "brand_title": "Lakeview Milk Bar",
+      "subheading": "Baking is our Love Language",
+      "banner_desktop": "/assets/banners/banner-hero-desktop.png",
+      "banner_mobile": "/assets/banners/banner-hero-mobile.jpg",
+      "cta_primary": {
+        "text": "Shop Now",
+        "href": "/collections/cake"
+      },
+      "cta_phone": {
+        "text": "Order by Phone: 9663812036",
+        "href": "tel:9663812036"
+      }
+    },
+    "recommended_for_you": [
+      {
+        "product_name": "Pink Mouse Baby Shower Cake",
+        "handle": "pink-mouse-baby-shower-cake-1",
+        "image": "/assets/products/pink-mouse-baby-shower-cake-1.jpg"
+      },
+      {
+        "product_name": "Little Princess Theme Cake",
+        "handle": "little-princess-theme-cake",
+        "image": "/assets/products/little-princess-theme-cake.jpg"
+      },
+      {
+        "product_name": "Whinnie The Pooh Cake",
+        "handle": "whinnie-the-pooh-cake",
+        "image": "/assets/products/whinnie-the-pooh-cake.jpg"
+      },
+      {
+        "product_name": "Pink Ombre Rosette Cake",
+        "handle": "pink-ombre-rosette-cake",
+        "image": "/assets/products/pink-ombre-rosette-cake.jpg"
+      },
+      {
+        "product_name": "Peach Bride To Be Cake",
+        "handle": "peach-bride-to-be-cake",
+        "image": "/assets/products/peach-bride-to-be-cake.jpg"
+      }
+    ],
+    "our_love_affair": {
+      "title": "Our Love Affair",
+      "tagline": "Baking is our Love Language",
+      "desktop_quote_image": "/assets/banners/quote-desktop.png",
+      "mobile_quote_image": "/assets/banners/quote-mobile.png"
+    },
+    "deal_of_the_day": {
+      "heading": "Deal of the Day",
+      "subheading": "HURRY UP@ DEAL ENDS IN:",
+      "cta_text": "Hurry Up, Order Now!",
+      "cta_link": "/collections/cake",
+      "image": "/assets/promotions/deal-of-the-day-countdown.jpg"
+    },
+    "newsletter": {
+      "heading": "Don\u2019t miss a thing.",
+      "description": "Enter your email below to be the first to know about our delicious new product launches & recipies",
+      "input_placeholder": "Enter your email",
+      "button_text": "Subscribe"
+    }
+  },
+  "policies": {
+    "refund_and_returns": {
+      "damage_reporting_window": "Within 4 hours of delivery with photo proof",
+      "support_contact": "support@lakeviewmilkbar.in or WhatsApp",
+      "refund_timeframe": "5 to 7 working days via original payment method",
+      "custom_cakes_cancellation_rules": {
+        "order_placed_within_4_hours": "Full Refund",
+        "once_preparation_starts": "20% will be refunded",
+        "order_prepared": "No Refund",
+        "ready_for_pickup_or_packed": "No Refund",
+        "out_for_delivery": "No Refund",
+        "day_of_delivery": "No Cancellation"
+      },
+      "regular_cakes_cancellation_rules": {
+        "order_placed": "No Cancellation, No Refund",
+        "ready_for_pickup": "No Refund",
+        "out_for_delivery": "No Refund"
+      }
+    },
+    "privacy_policy_summary": "Manages personal data including names, phone numbers, email addresses, delivery addresses, order history, passwords, and payment details under IT Rules and Consumer Protection (E-Commerce) Rules. Contact: support@lakeviewmilkbar.in.",
+    "terms_conditions_summary": "Owned and operated by Lakeview Milk Bar. Delivery attempt made only once per cake. Receiver address errors or refusal to accept are ineligible for refund. Handmade goods may show natural artisanal variations from photographs."
+  }
+}

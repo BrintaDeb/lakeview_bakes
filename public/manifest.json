@@ -1,0 +1,25 @@
+{
+  "name": "Lakeview Milk Bar — 1930",
+  "short_name": "Lakeview",
+  "description": "Bengaluru's iconic heritage dessert parlour & bakery since 1930. Handcrafted celebration cakes, legendary sundaes, and midnight car-hop service.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#112229",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/assets/logo/lakeview-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo/lakeview-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
